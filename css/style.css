@@ -1,0 +1,62 @@
+.navbar img{
+    width: 51px;
+}
+.player img{
+    width: 56px;
+}
+.top-player{
+    margin-top: 50px;
+    background-color: rgb(214, 255, 224);
+}
+.blog img{
+    width: 177px;
+}
+.names{
+    padding-left: 25px;
+}
+.courses{
+    border: none;
+    box-shadow: 10px 10px 15px 10px lightgray;
+    border-radius: 15px;
+}
+.courses img{
+    Width:300px;
+    Height : 140px;
+}
+h3{
+    margin-bottom: 30px;
+}
+
+.card img{
+    margin: 25px 0px 0px 25px;
+}
+
+.js-img img{
+    width: 14px;
+    height: 14px;
+    margin: 5px 0 0 0;
+    padding: 0;
+}
+.js-img p{
+    margin-left: 25px;
+    margin-top: 0;
+    color: lightgray;
+    font-weight: 800;
+}
+.js-img-2{
+    width: 100%;
+    height: auto;
+    background-color: #FEE5DF;
+    border-radius: 24px;      
+}
+.js-img-2 img{
+    width: 25px;
+    height: 25px;
+    margin: 3px 0 0 4px;
+    padding: 0;
+}
+.js-img-2 p{    
+    color:  #ED6B4F;
+    font-weight: 800;
+    margin: 3px 0 0 30px;
+}
